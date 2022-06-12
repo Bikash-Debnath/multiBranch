@@ -1,9 +1,3 @@
-New changes done by developer
+New Changes to see if the job rerun automatically
 
-some more changes dondddddddeddd
-
-
-cccccc
-
-fghghghgfhgf
 
